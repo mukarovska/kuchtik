@@ -1,0 +1,23 @@
+[
+  {
+    "nazev": "Dýňová polévka",
+    "porce": 4,
+    "suroviny": "dýně, olej, sůl, cibule",
+    "postup": "Očištěnou dužinu dýně nakrájejte na centimetr silné plátky, promíchejte je s 1 lžící oleje, 1/2 lžičkou soli a vyskládejte na plech vyložený pečicím papírem tak, aby se kousky dýně nepřekrývaly a ležely jen v jedné vrstvě. Vložte do vyhřáté trouby a pečte 30 minut, až dýni začnou vyskakovat hnědé puchýřky a bude krásně měkká.",
+    "obrazek": "http://localhost:4000/assets/polevka.png"
+  },
+  {
+    "nazev": "Pomazánka z tvarohu a dýně",
+    "porce": 4,
+    "suroviny": "dýně, tvaroh, dýňová semínka, chléb",
+    "postup": "Dýni oloupeme, nakrájíme na kostky o hraně 2 cm a vložíme do mísy. Zakápneme 2 lžícemi oleje, přidáme 3 špetky soli, 2 špetky čerstvě mletého pepře a důkladně promícháme. Ochucenou dýni vyskládáme do jedné vrstvy na plech a vložíme do rozehřáté trouby na 30 minut. Upečenou dýni přendáme do mísy a necháme vychladnout.",
+    "obrazek": "http://localhost:4000/assets/pomazanka.png"
+  },
+  {
+    "nazev": "Dýňové lívanečky",
+    "porce": "20ks",
+    "suroviny": "dýně, hl. mouka, bílý jogurt, prdopeč",
+    "postup": "Mouku prosijeme a promícháme s práškem do pečiva a solí. Přidáme 200 g dýňového pyré. Pokud je dýňové pyré příliš hutné, rozmícháme je s jogurtem. Metličkou přimícháme vejce s máslem a následně cukr a po částech mouku tak, aby vzniklo hustší těstíčko.",
+    "obrazek": "http://localhost:4000/assets/livanecky.png"
+  }
+]
